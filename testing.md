@@ -32,10 +32,12 @@ class CartItem extends Component {
 }
 
 export default CartItem;
-
+```
 ## 5.b. Результат после применения системных правил
 
 *Тот же промпт, но с активным файлом правил (Role: Senior React Dev, Context: React+Tailwind, Constraints: no inline styles, functional components only, Format: full code + JSDoc).*
+
+```
 import React from 'react';
 import PropTypes from 'prop-types';
 
