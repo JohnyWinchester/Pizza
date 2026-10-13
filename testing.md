@@ -37,7 +37,7 @@ export default CartItem;
 
 *Тот же промпт, но с активным файлом правил (Role: Senior React Dev, Context: React+Tailwind, Constraints: no inline styles, functional components only, Format: full code + JSDoc).*
 
-```
+```jsx
 import React from 'react';
 import PropTypes from 'prop-types';
 
