@@ -145,7 +145,7 @@ Bolt.new не требует установки — настройка свел�
 ### Ссылки
 
 - **Репозиторий GitHub:** https://github.com/JohnyWinchester/Pizza
-- **Деплой (если есть):** https://pizza-delivery-mvp-awo5.bolt.host/
+- **Деплой :** https://pizza-delivery-mvp-awo5.bolt.host/
 
 ---
 
